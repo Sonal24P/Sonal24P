@@ -20,4 +20,4 @@
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="SonalParmar" height="30" width="40" /></a>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Sonal24P" target="_blank">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonal24P&show_icons=true&locale=en&layout=compact" alt="Sonal24P" /></p>
