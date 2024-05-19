@@ -19,3 +19,4 @@
 <a href="https://leetcode.com/u/SonalParmar/" target="blank">
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="SonalParmar" height="30" width="40" /></a>
 </p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sonal24P)
